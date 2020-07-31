@@ -1,16 +1,31 @@
-### Hi there 👋
+## Hello 👋
+Welcome to my GitHub profile. I am a software developer from 🇲🇾 Malaysia, currently residing in 🇳🇿 Auckland, New Zealand.
 
-<!--
-**rafiazman/rafiazman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Rafi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafiazman)
 
-Here are some ideas to get you started:
+## Web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/tantigers/triptime-web">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tantigers&repo=triptime-web" />
+</a>
+
+<a href="https://github.com/tantigers/triptime-api">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tantigers&repo=triptime-api" />
+</a>
+
+<a href="https://github.com/rafiazman/react-ts-tailwindcss-template">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rafiazman&repo=react-ts-tailwindcss-template" />
+</a>
+
+<a href="https://github.com/rafiazman/notinoti">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafiazman&repo=notinoti" />
+</a>
+
+## Misc
+<a href="https://github.com/rafiazman/jaccardSimilarityCalculator">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rafiazman&repo=jaccardSimilarityCalculator" />
+</a>
+
+<a href="https://github.com/rafiazman/lockmate">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafiazman&repo=lockmate" />
+</a>
