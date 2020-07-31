@@ -1,5 +1,5 @@
 ## Hello 👋
-Welcome to my GitHub profile. I am a software developer from 🇲🇾 Malaysia, currently residing in 🇳🇿 Auckland, New Zealand.
+Welcome to my GitHub profile. I am a software developer from <img src="https://hatscripts.github.io/circle-flags/flags/my.svg" width="14"> Malaysia, currently residing in <img src="https://hatscripts.github.io/circle-flags/flags/nz.svg" width="14"> Auckland, New Zealand.
 
 ![Rafi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafiazman)
 
