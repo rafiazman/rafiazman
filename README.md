@@ -16,7 +16,7 @@ Welcome to my GitHub profile. I am a software developer from <img src="https://h
   
 ### Web
 
-<a href="https://github.com/tantigers/triptime-web">
+<a href="https://github.com/rafiazman/triptime-web">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rafiazman&repo=triptime-web" />
 </a>
 
