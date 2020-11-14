@@ -4,7 +4,7 @@ Welcome to my GitHub profile. I am a software developer from <img src="https://h
 ### Web
 
 <a href="https://github.com/rafiazman/they-starred-in">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rafiazman&repo=they-starred-in" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafiazman&repo=they-starred-in" />
 </a>
 
 <a href="https://github.com/rafiazman/triptime-web">
