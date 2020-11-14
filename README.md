@@ -15,10 +15,6 @@ Welcome to my GitHub profile. I am a software developer from <img src="https://h
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rafiazman&repo=triptime-api" />
 </a>
 
-<a href="https://github.com/rafiazman/react-ts-tailwindcss-template">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rafiazman&repo=react-ts-tailwindcss-template" />
-</a>
-
 <a href="https://github.com/rafiazman/notinoti">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafiazman&repo=notinoti" />
 </a>
